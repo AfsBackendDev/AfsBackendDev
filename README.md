@@ -12,7 +12,7 @@
 - **Tools & Platforms:** Docker 🐳, MongoDB 🍃, GitHub 🐙  
 - **CI/CD:** Automated deploys with GitHub Actions 🔄  
 - **Docs:** Simple easy and clear documentation with the frameworks SwaggerJsDoc and SwaggerUiExpress
-- **WebServer:** Reverse proxy to handle HTTP traffic.
+- **WebServer:** Nginx as reverse proxy to handle HTTP traffic.
 
 ---
 
